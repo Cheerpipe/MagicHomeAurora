@@ -1,0 +1,8 @@
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\bin\Release\MagicHomeAurora.dll
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\bin\Release\MagicHomeAurora.pdb
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\bin\Release\MagicHome.dll
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Release\MagicHomeAurora.csproj.CopyComplete
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Release\MagicHomeAurora.dll
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Release\MagicHomeAurora.pdb
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Release\MagicHomeAurora.csprojAssemblyReference.cache
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Release\MagicHomeAurora.csproj.CoreCompileInputs.cache

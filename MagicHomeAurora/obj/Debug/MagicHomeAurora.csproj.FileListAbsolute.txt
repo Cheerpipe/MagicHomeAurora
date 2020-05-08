@@ -1,0 +1,14 @@
+C:\Users\Cheerpipe\source\repos\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.csprojAssemblyReference.cache
+C:\Users\Cheerpipe\source\repos\MagicHomeAurora\MagicHomeAurora\bin\Debug\MagicHomeAurora.dll
+C:\Users\Cheerpipe\source\repos\MagicHomeAurora\MagicHomeAurora\bin\Debug\MagicHomeAurora.pdb
+C:\Users\Cheerpipe\source\repos\MagicHomeAurora\MagicHomeAurora\bin\Debug\MagicHome.dll
+C:\Users\Cheerpipe\source\repos\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.csproj.CopyComplete
+C:\Users\Cheerpipe\source\repos\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.dll
+C:\Users\Cheerpipe\source\repos\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.pdb
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\bin\Debug\MagicHomeAurora.dll
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\bin\Debug\MagicHomeAurora.pdb
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\bin\Debug\MagicHome.dll
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.csprojAssemblyReference.cache
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.csproj.CopyComplete
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.dll
+D:\Warez\Proyectos C#\MagicHomeAurora\MagicHomeAurora\obj\Debug\MagicHomeAurora.pdb
